@@ -1,0 +1,9 @@
+.carrousel {
+  background-color: black;
+  color: #fff;
+
+  &__white {
+    background-color: #fff;
+    color: black;
+  }
+}

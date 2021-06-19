@@ -1,6 +1,6 @@
 .page-section {
   padding-top: 3rem;
-  &__blue {
+  &__white {
     background-color: $mainBlue;
     color: #fff;
   }
