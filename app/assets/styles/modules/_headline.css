@@ -1,0 +1,29 @@
+.headline {
+  &__large {
+    font-size: 3rem;
+    font-weight: 300;
+    color: $mainBlue;
+  }
+  &__narrow {
+    max-width: 30rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  &__orange {
+    color: $mainOrange;
+  }
+  &__small {
+    font-size: 1.8rem;
+    font-weight: 300;
+    color: $mainBlue;
+  }
+  &__centered {
+    text-align: center;
+  }
+  strong {
+    font-weight: 400;
+  }
+  &__no-t-margin {
+    margin-top: 0;
+  }
+}

@@ -1,0 +1,15 @@
+.page-section {
+  padding-top: 3rem;
+  &__blue {
+    background-color: $mainBlue;
+    color: #fff;
+  }
+
+  &__b-margin-large {
+    margin-bottom: 6em;
+  }
+  &--testimonials {
+    background: url("/assets/images/testimonials-bg.jpg") top center no-repeat;
+    background-size: cover;
+  }
+}

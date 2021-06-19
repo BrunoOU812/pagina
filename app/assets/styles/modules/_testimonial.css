@@ -1,0 +1,16 @@
+.testimonial {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 0 1.875rem 1px 1.875rem;
+  &__photo {
+    position: relative;
+    border-radius: 80px;
+    width: 160px;
+    height: 160px;
+    padding: 0 auto -80px auto;
+    margin-left: auto;
+    overflow: hidden;
+    top: -80px;
+    border: 6px solid rgba(255, 255, 255, 0.8);
+    left: 0;
+  }
+}
